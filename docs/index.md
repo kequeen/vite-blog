@@ -15,7 +15,7 @@ hero:
       link: /guide/study
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 技术之路
+    details: 何所来，何所去
 ---
 
