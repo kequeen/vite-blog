@@ -16,6 +16,6 @@ hero:
 
 features:
   - title: 技术之路
-    details: 何所来，何所去
+    details: 何所来，何所去，如何去
 ---
 
